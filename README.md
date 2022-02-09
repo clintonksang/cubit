@@ -1,7 +1,8 @@
 # cubit_example
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for fetching API with cubit
+This project is a starting point for fetching API with cubit.
+
+Reousces  VsCode extension Bloc https://marketplace.visualstudio.com/items?itemName=FelixAngelov.bloc
