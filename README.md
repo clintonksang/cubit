@@ -1,7 +1,5 @@
-# cubit_example
 
-
-## Getting Started
+## Getting Started with cubit
 
 This project is a starting point for fetching API with cubit.
 
